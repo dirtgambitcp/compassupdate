@@ -1,0 +1,14 @@
+{
+  "name": "compass-update",
+  "version": "1.0.0",
+  "description": "A small application to update the compass stick",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Michael Hawthorne",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.5"
+  }
+}
